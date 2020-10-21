@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5559bf21-18ac-47ac-bf0c-e25af648d8a8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/hackerrank/python/11. alphabatRangoli.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hackerrank/12. capitalizeNames.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hackerrank/python/12. minionGame.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerrank/python/11. alphabatRangoli.py" beforeDir="false" afterPath="$PROJECT_DIR$/hackerrank/python/11. alphabatRangoli.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,7 +37,7 @@
       <recent name="C:\Users\hidey\PycharmProjects\Challenges\codewars" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.11. alphabatRangoli">
+  <component name="RunManager" selected="Python.12. minionGame">
     <configuration name="10. printDoormat" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Challenges" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -78,7 +80,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Attenuation" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="12. capitalizeNames" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Challenges" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -86,11 +88,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/hackerrank" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\hidey\PycharmProjects\Challenges\codewars\palindrome.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hackerrank/12. capitalizeNames.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -99,7 +101,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Two Sum" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="12. minionGame" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Challenges" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -107,11 +109,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/leetcode" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/hackerrank/python" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/leetcode/Two Sum.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hackerrank/python/12. minionGame.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -143,11 +145,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.12. minionGame" />
+        <item itemvalue="Python.12. capitalizeNames" />
         <item itemvalue="Python.11. alphabatRangoli" />
         <item itemvalue="Python.10. printDoormat" />
         <item itemvalue="Python.matrix_threshold" />
-        <item itemvalue="Python.Attenuation" />
-        <item itemvalue="Python.Two Sum" />
       </list>
     </recent_temporary>
   </component>
@@ -177,22 +179,22 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1899" height="294" key="GridCell.Tab.0.bottom" timestamp="1603295533280">
+    <state width="1899" height="294" key="GridCell.Tab.0.bottom" timestamp="1603299499226">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1899" height="294" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1603295533280" />
-    <state width="1899" height="294" key="GridCell.Tab.0.center" timestamp="1603295533280">
+    <state width="1899" height="294" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1603299499226" />
+    <state width="1899" height="294" key="GridCell.Tab.0.center" timestamp="1603299499226">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1899" height="294" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1603295533280" />
-    <state width="1899" height="294" key="GridCell.Tab.0.left" timestamp="1603295533280">
+    <state width="1899" height="294" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1603299499226" />
+    <state width="1899" height="294" key="GridCell.Tab.0.left" timestamp="1603299499226">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1899" height="294" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1603295533280" />
-    <state width="1899" height="294" key="GridCell.Tab.0.right" timestamp="1603295533280">
+    <state width="1899" height="294" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1603299499226" />
+    <state width="1899" height="294" key="GridCell.Tab.0.right" timestamp="1603299499226">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1899" height="294" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1603295533280" />
+    <state width="1899" height="294" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1603299499226" />
     <state x="656" y="363" key="com.intellij.ide.util.TipDialog" timestamp="1603294029351">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
