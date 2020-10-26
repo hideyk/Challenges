@@ -2,12 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5559bf21-18ac-47ac-bf0c-e25af648d8a8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/hackerrank/python/13. mergeTheTools.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hackerrank/python/14. itertoolsProduct.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hackerrank/python/15. collectionsCounter.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hackerrank/python/16. itertoolsPermutations.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hackerrank/python/17. polarCoordinates.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hackerrank/python/19. collectionsNamedTuple.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hackerrank/python/calendarModule.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hackerrank/python/timedelta.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerrank/python/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/hackerrank/python/18. exceptions.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,91 +38,7 @@
       <recent name="C:\Users\hidey\PycharmProjects\Challenges\codewars" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.17. polarCoordinates">
-    <configuration name="13. mergeTheTools" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Challenges" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/hackerrank/python" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hackerrank/python/13. mergeTheTools.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="14. itertoolsProduct" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Challenges" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/hackerrank/python" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hackerrank/python/14. itertoolsProduct.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="15. collectionsCounter" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Challenges" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/hackerrank/python" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hackerrank/python/15. collectionsCounter.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="16. itertoolsPermutations" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Challenges" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/hackerrank/python" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hackerrank/python/16. itertoolsPermutations.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python tests.Unittests in timedelta.py">
     <configuration name="17. polarCoordinates" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Challenges" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -145,13 +60,90 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="19. collectionsNamedTuple" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Challenges" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/hackerrank/python" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hackerrank/python/19. collectionsNamedTuple.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="20. timedelta" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Challenges" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/hackerrank/python" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\hidey\PycharmProjects\Challenges\hackerrank\python\timedelta.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="calendarModule" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Challenges" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/hackerrank/python" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hackerrank/python/calendarModule.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests in timedelta.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="Challenges" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/hackerrank/python" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/hackerrank/python/timedelta.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python tests.Unittests in timedelta.py" />
+        <item itemvalue="Python.20. timedelta" />
+        <item itemvalue="Python.19. collectionsNamedTuple" />
+        <item itemvalue="Python.calendarModule" />
         <item itemvalue="Python.17. polarCoordinates" />
-        <item itemvalue="Python.16. itertoolsPermutations" />
-        <item itemvalue="Python.15. collectionsCounter" />
-        <item itemvalue="Python.14. itertoolsProduct" />
-        <item itemvalue="Python.13. mergeTheTools" />
       </list>
     </recent_temporary>
   </component>
@@ -181,25 +173,29 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1899" height="293" key="GridCell.Tab.0.bottom" timestamp="1603480233392">
+    <state x="721" y="342" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1603722331659">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1899" height="293" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1603480233392" />
-    <state width="1899" height="293" key="GridCell.Tab.0.center" timestamp="1603480233392">
+    <state x="721" y="342" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1603722331659" />
+    <state width="1899" height="293" key="GridCell.Tab.0.bottom" timestamp="1603723591673">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1899" height="293" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1603480233392" />
-    <state width="1899" height="293" key="GridCell.Tab.0.left" timestamp="1603480233392">
+    <state width="1899" height="293" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1603723591673" />
+    <state width="1899" height="293" key="GridCell.Tab.0.center" timestamp="1603723591673">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1899" height="293" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1603480233392" />
-    <state width="1899" height="293" key="GridCell.Tab.0.right" timestamp="1603480233392">
+    <state width="1899" height="293" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1603723591673" />
+    <state width="1899" height="293" key="GridCell.Tab.0.left" timestamp="1603723591673">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1899" height="293" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1603480233392" />
-    <state x="656" y="363" key="com.intellij.ide.util.TipDialog" timestamp="1603372608023">
+    <state width="1899" height="293" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1603723591673" />
+    <state width="1899" height="293" key="GridCell.Tab.0.right" timestamp="1603723591673">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="656" y="363" key="com.intellij.ide.util.TipDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1603372608023" />
+    <state width="1899" height="293" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1603723591673" />
+    <state x="656" y="363" key="com.intellij.ide.util.TipDialog" timestamp="1603720666661">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="656" y="363" key="com.intellij.ide.util.TipDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1603720666661" />
   </component>
 </project>
