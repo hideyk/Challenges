@@ -2,11 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5559bf21-18ac-47ac-bf0c-e25af648d8a8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/hackerrank/python/19. collectionsNamedTuple.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hackerrank/python/calendarModule.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hackerrank/python/timedelta.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hackerrank/python/21. findAngleMBC.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hackerrank/python/22. happinessCounter.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hackerrank/python/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/hackerrank/python/18. exceptions.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerrank/python/calendarModule.py" beforeDir="false" afterPath="$PROJECT_DIR$/hackerrank/python/calendarModule.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,7 +37,7 @@
       <recent name="C:\Users\hidey\PycharmProjects\Challenges\codewars" />
     </key>
   </component>
-  <component name="RunManager" selected="Python tests.Unittests in timedelta.py">
+  <component name="RunManager" selected="Python.calendarModule">
     <configuration name="17. polarCoordinates" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Challenges" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -139,10 +138,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.calendarModule" />
         <item itemvalue="Python tests.Unittests in timedelta.py" />
         <item itemvalue="Python.20. timedelta" />
         <item itemvalue="Python.19. collectionsNamedTuple" />
-        <item itemvalue="Python.calendarModule" />
         <item itemvalue="Python.17. polarCoordinates" />
       </list>
     </recent_temporary>
@@ -177,25 +176,41 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="721" y="342" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1603722331659" />
-    <state width="1899" height="293" key="GridCell.Tab.0.bottom" timestamp="1603723591673">
+    <state width="1899" height="293" key="GridCell.Tab.0.bottom" timestamp="1603858448157">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1899" height="293" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1603723591673" />
-    <state width="1899" height="293" key="GridCell.Tab.0.center" timestamp="1603723591673">
+    <state width="1899" height="293" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1603858448157" />
+    <state width="1899" height="293" key="GridCell.Tab.0.center" timestamp="1603858448157">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1899" height="293" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1603723591673" />
-    <state width="1899" height="293" key="GridCell.Tab.0.left" timestamp="1603723591673">
+    <state width="1899" height="293" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1603858448157" />
+    <state width="1899" height="293" key="GridCell.Tab.0.left" timestamp="1603858448157">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1899" height="293" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1603723591673" />
-    <state width="1899" height="293" key="GridCell.Tab.0.right" timestamp="1603723591673">
+    <state width="1899" height="293" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1603858448157" />
+    <state width="1899" height="293" key="GridCell.Tab.0.right" timestamp="1603858448157">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1899" height="293" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1603723591673" />
-    <state x="656" y="363" key="com.intellij.ide.util.TipDialog" timestamp="1603720666661">
+    <state width="1899" height="293" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1603858448157" />
+    <state width="1899" height="363" key="GridCell.Tab.1.bottom" timestamp="1603855998356">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="656" y="363" key="com.intellij.ide.util.TipDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1603720666661" />
+    <state width="1899" height="363" key="GridCell.Tab.1.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1603855998356" />
+    <state width="1899" height="363" key="GridCell.Tab.1.center" timestamp="1603855998356">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1899" height="363" key="GridCell.Tab.1.center/0.0.1920.1080@0.0.1920.1080" timestamp="1603855998356" />
+    <state width="1899" height="363" key="GridCell.Tab.1.left" timestamp="1603855998356">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1899" height="363" key="GridCell.Tab.1.left/0.0.1920.1080@0.0.1920.1080" timestamp="1603855998356" />
+    <state width="1899" height="363" key="GridCell.Tab.1.right" timestamp="1603855998356">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1899" height="363" key="GridCell.Tab.1.right/0.0.1920.1080@0.0.1920.1080" timestamp="1603855998356" />
+    <state x="656" y="363" key="com.intellij.ide.util.TipDialog" timestamp="1603855799056">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="656" y="363" key="com.intellij.ide.util.TipDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1603855799056" />
   </component>
 </project>

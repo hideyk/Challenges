@@ -1,7 +1,5 @@
-import calendar
-from datetime import datetime
+from datetime import datetime, timedelta
 
 day, month, year = map(int, input().split())
 
-print(calendar.day_name[datetime(day=day, month=month, year=year).weekday()].upper())
-
+print((datetime(year=year, month=month, day=day)-timedelta(days=2)).strftime("%A").upper())
