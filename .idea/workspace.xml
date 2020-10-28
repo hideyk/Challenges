@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5559bf21-18ac-47ac-bf0c-e25af648d8a8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/hackerrank/python/21. findAngleMBC.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hackerrank/python/22. happinessCounter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hackerrank/python/25. itertoolsCombinations.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hackerrank/python/calendarModule.py" beforeDir="false" afterPath="$PROJECT_DIR$/hackerrank/python/calendarModule.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerrank/python/24. setBasics.py" beforeDir="false" afterPath="$PROJECT_DIR$/hackerrank/python/24. setBasics.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
