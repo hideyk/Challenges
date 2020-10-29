@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5559bf21-18ac-47ac-bf0c-e25af648d8a8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/hackerrank/python/25. itertoolsCombinations.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hackerrank/python/26. wordOrder.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hackerrank/python/27. setActions.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hackerrank/python/24. setBasics.py" beforeDir="false" afterPath="$PROJECT_DIR$/hackerrank/python/24. setBasics.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -207,9 +207,9 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="1899" height="363" key="GridCell.Tab.1.right/0.0.1920.1080@0.0.1920.1080" timestamp="1603855998356" />
-    <state x="656" y="363" key="com.intellij.ide.util.TipDialog" timestamp="1603874419519">
+    <state x="656" y="363" key="com.intellij.ide.util.TipDialog" timestamp="1603983665311">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="656" y="363" key="com.intellij.ide.util.TipDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1603874419519" />
+    <state x="656" y="363" key="com.intellij.ide.util.TipDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1603983665311" />
   </component>
 </project>
