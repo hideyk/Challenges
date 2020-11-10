@@ -24,7 +24,7 @@ class Test(unittest.TestCase):
     def testTimeDelta(self):
         for i in range(len(deltatext)):
             with self.subTest(msg=datetext[2*i] + " " + datetext[2*i+1]):
-                self.assertEquals(time_delta(datetext[2*i],datetext[2*i+1]), deltatext[i])
+                self.assertEqual(time_delta(datetext[2*i],datetext[2*i+1]), deltatext[i])
 
 
 if __name__ == '__main__':
