@@ -2,17 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5559bf21-18ac-47ac-bf0c-e25af648d8a8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/hackerrank/python/pilingUp_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flask_test/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flask_test/device_registry/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flask_test/run.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Challenges.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Challenges.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hackerrank/python/timedelta.py" beforeDir="false" afterPath="$PROJECT_DIR$/hackerrank/python/timedelta.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="FavoritesManager">
-    <favorites_list name="Challenges" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -33,13 +33,35 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PythonContentEntriesConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\hidey\PycharmProjects\Challenges\codewars" />
     </key>
   </component>
-  <component name="RunManager" selected="Python tests.Unittests in pilingUp_test.py">
+  <component name="RunManager" selected="Python.__init__">
+    <configuration name="__init__" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Challenges" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/flask_test/device_registry" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/flask_test/device_registry/__init__.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="pilingUp_test" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Challenges" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -61,18 +83,25 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Unittests for hackerrank.python.pilingUp_test.Test" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+    <configuration name="run" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Challenges" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/hackerrank/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/flask_test" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;hackerrank.python.pilingUp_test.Test&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/flask_test/run.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
     <configuration name="Unittests for pilingUp_test.PileUpTest" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
@@ -86,34 +115,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
       <option name="_new_target" value="&quot;pilingUp_test.PileUpTest&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Unittests for pilingUp_test.Test" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
-      <module name="Challenges" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/hackerrank/python" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;pilingUp_test.Test&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Unittests for pilingUp_test.Test.testPileUp" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
-      <module name="Challenges" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/hackerrank/python" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;pilingUp_test.Test.testPileUp&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
@@ -133,11 +134,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.__init__" />
+        <item itemvalue="Python.run" />
         <item itemvalue="Python tests.Unittests in pilingUp_test.py" />
         <item itemvalue="Python.pilingUp_test" />
         <item itemvalue="Python tests.Unittests for pilingUp_test.PileUpTest" />
-        <item itemvalue="Python tests.Unittests for pilingUp_test.Test.testPileUp" />
-        <item itemvalue="Python tests.Unittests for pilingUp_test.Test" />
       </list>
     </recent_temporary>
   </component>
@@ -171,22 +172,26 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="721" y="342" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1603722331659" />
-    <state width="1899" height="363" key="GridCell.Tab.0.bottom" timestamp="1605016197698">
+    <state x="740" y="281" key="FileChooserDialogImpl" timestamp="1605022861956">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1899" height="363" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1605016197698" />
-    <state width="1899" height="363" key="GridCell.Tab.0.center" timestamp="1605016197688">
+    <state x="740" y="281" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1605022861956" />
+    <state width="1899" height="293" key="GridCell.Tab.0.bottom" timestamp="1605023910477">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1899" height="363" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1605016197688" />
-    <state width="1899" height="363" key="GridCell.Tab.0.left" timestamp="1605016197688">
+    <state width="1899" height="293" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1605023910477" />
+    <state width="1899" height="293" key="GridCell.Tab.0.center" timestamp="1605023910477">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1899" height="363" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1605016197688" />
-    <state width="1899" height="363" key="GridCell.Tab.0.right" timestamp="1605016197688">
+    <state width="1899" height="293" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1605023910477" />
+    <state width="1899" height="293" key="GridCell.Tab.0.left" timestamp="1605023910477">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1899" height="363" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1605016197688" />
+    <state width="1899" height="293" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1605023910477" />
+    <state width="1899" height="293" key="GridCell.Tab.0.right" timestamp="1605023910477">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1899" height="293" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1605023910477" />
     <state width="1899" height="363" key="GridCell.Tab.1.bottom" timestamp="1605016197698">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
@@ -203,9 +208,13 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="1899" height="363" key="GridCell.Tab.1.right/0.0.1920.1080@0.0.1920.1080" timestamp="1605016197698" />
-    <state x="656" y="363" key="com.intellij.ide.util.TipDialog" timestamp="1605016289757">
+    <state x="461" y="182" key="SettingsEditor" timestamp="1605022913636">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="656" y="363" key="com.intellij.ide.util.TipDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1605016289757" />
+    <state x="461" y="182" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1605022913636" />
+    <state x="656" y="363" key="com.intellij.ide.util.TipDialog" timestamp="1606626232823">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="656" y="363" key="com.intellij.ide.util.TipDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1606626232823" />
   </component>
 </project>
