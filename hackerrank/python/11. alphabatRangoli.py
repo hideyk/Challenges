@@ -1,7 +1,6 @@
 import string
 d = dict(enumerate(string.ascii_lowercase, 1))
 
-
 def print_rangoli(size):
     for r in range(size):
         print("-"*(2*(size-r-1)), end="")
@@ -30,8 +29,5 @@ def better_rangoli(n):
         s = "-".join(alpha[i:n])
         L.append((s[::-1]+s[1:]).center(4*n-3, "-"))
     print('\n'.join(L[:0:-1]+L))
-
-
-# print_rangoli(10)
 
 better_rangoli(10)
