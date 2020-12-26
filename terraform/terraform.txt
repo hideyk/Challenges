@@ -1,0 +1,19 @@
+[COMMANDS]
+terraform init
+terraform fmt
+terraform validate
+terraform plan
+terraform apply
+terraform show
+terraform state list
+terraform destroy
+
+
+Upon "terraform apply", state is saved onto terraform.tfstate 
+- IDs / Properties / Resources
+
+
+Useful resources
+Terraform documentation - https://www.terraform.io/docs/configuration/index.html
+Terraform providers - https://www.terraform.io/docs/providers/index.html
+Terraform use cases - https://www.terraform.io/intro/use-cases.html

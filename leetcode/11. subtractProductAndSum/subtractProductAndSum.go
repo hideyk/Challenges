@@ -19,7 +19,7 @@ func subtractProductAndSum(n int) int {
 func subtractProductAndSum2(n int) int {
 	total, product := 0, 1
 	for _, x := range fmt.Sprintf("%d", n) {
-		xi, _ = strconv.Atoi(string(x))
+		xi, _ := strconv.Atoi(string(x))
 		total += xi
 		product *= xi
 	}

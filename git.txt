@@ -1,0 +1,11 @@
+git add .
+git reset .
+git reset --hard            # Unstage and delete all files
+
+Tip --> Make small commits
+
+git add .
+git commit -m "first commit"
+
+
+git branch                  # Shows all current branches
